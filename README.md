@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoseOliver
 - 👀 I’m interested in all kind of programming knowledge
 - 🌱 I’m currently learning web back-end tecniques
-- 💞️ I’m looking to collaborate on any web development jobs
+- 💞️ I’m looking to collaborate on any game development job
 - 📫 How to reach me: #oliver_ja@outlook.com#
 
 <!---
